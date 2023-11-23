@@ -1,4 +1,4 @@
-# Настройка сервера 1С: Предприятия на CentOS 7
+# Настройка сервера 1С:Предприятие на CentOS 7
 
 ## Настройка системы
 Установил виртуальную машину.  
@@ -130,3 +130,8 @@ Group=csuser
 WantedBy=multi-user.target
 ```
 
+После записи файла выполнить
+```
+systemctl daemon-reload
+systemctl start crserver.service
+```
