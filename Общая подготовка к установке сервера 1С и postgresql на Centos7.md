@@ -51,6 +51,7 @@ yum -y update
 yum -y install epel-release
 yum -y install nano mc wget net-tools rpm-build gcc make glibc-devel bison flex python-devel tcl-devel readline-devel zlib-devel openssl-devel krb5-devel e2fsprogs-devel gettext pam-devel openldap-devel icu libicu libicu-devel
 ```
+Для Centos 8 нужно заменить `python-devel` на `platform-python-devel`.
 
 Отключение файрвола (до перезагрузки)
 ```
