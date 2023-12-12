@@ -1,4 +1,4 @@
 ## Шрифты
 ```
-wget https://github.com/zeskord/workpub/raw/main/Шрифты%20для%20Centos8/andale32.zip https://github.com/zeskord/workpub/raw/main/Шрифты%20для%20Centos8/arial32.zip 
+wget https://github.com/zeskord/workpub/raw/main/Fonts-for-Centos8/andale32.zip https://github.com/zeskord/workpub/raw/main/Fonts-for-Centos8/arial32.zip https://github.com/zeskord/workpub/raw/main/Fonts-for-Centos8/arialb32.zip https://github.com/zeskord/workpub/raw/main/Fonts-for-Centos8/comic32.zip https://github.com/zeskord/workpub/raw/main/Fonts-for-Centos8/courie32.zip https://github.com/zeskord/workpub/raw/main/Fonts-for-Centos8/georgi32.zip https://github.com/zeskord/workpub/raw/main/Fonts-for-Centos8/impact32.zip https://github.com/zeskord/workpub/raw/main/Fonts-for-Centos8/times32.zip https://github.com/zeskord/workpub/raw/main/Fonts-for-Centos8/trebuc32.zip https://github.com/zeskord/workpub/raw/main/Fonts-for-Centos8/verdan32.zip https://github.com/zeskord/workpub/raw/main/Fonts-for-Centos8/webdin32.zip
 ```
