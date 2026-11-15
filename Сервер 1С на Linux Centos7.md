@@ -7,7 +7,7 @@
 mkdir tmp
 cd tmp
 ```
-Файл `rpm64_8_3_23_1912.tar.gz` предварительно передали на сервер. Извлекаем.
+Файл `rpm64_8_3_23_1912.tar.gz` предварительно передали на наш сервер. Извлекаем.
 ```
 tar -xvf rpm64_8_3_23_1912.tar.gz
 ```
@@ -30,6 +30,7 @@ systemctl link /opt/1cv8/x86_64/8.3.23.1912/srv1cv8-8.3.23.1912@default.service
 systemctl status srv1cv8-8.3.23.1912@default.service
 ```
 Включаем автоматический запуск
+Команда приведена ниже:
 ```
 systemctl enable srv1cv8-8.3.23.1912@default.service
 ```
